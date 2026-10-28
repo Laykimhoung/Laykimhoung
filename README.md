@@ -1,39 +1,64 @@
+<!-- studio:settings user=Laykimhoung theme=radical hl=2 border=hide follow=on light=graywhite -->
 
-<div align="center">
+<!-- studio:header -->
+<h1 align="center">Hi, I'm Lay Kimhoung</h1>
 
-# Hi, I'm XAKURAII 👋
+<p align="center">Curious about how things work. Building, experimenting, and learning across software, web and AI.</p>
 
-**Computer Science Student | Driven by Curiosity**
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Laykimhoung/Laykimhoung/main/profile-assets/typing-dark.svg?lines=Computer%20Science%20Student%20;Driven%20by%20Curiosity&font=JetBrains%20Mono&size=22&width=460&center=true" />
+    <img src="https://raw.githubusercontent.com/Laykimhoung/Laykimhoung/main/profile-assets/typing-light.svg?lines=Computer%20Science%20Student%20;Driven%20by%20Curiosity&font=JetBrains%20Mono&size=22&width=460&center=true" alt="Computer Science Student . Driven by Curiosity" />
+  </picture>
+</p>
 
-Curious about how things work. Building, experimenting, and learning across software, data, and AI.
+<!-- studio:visitor -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Laykimhoung&label=Profile%20views&color=d1242f&style=flat" alt="Profile views" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Laykimhoung&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS)
+<!-- studio:details -->
+<details>
+<summary><b>More about me</b></summary>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://kimhoung-portfolio.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Laykimhoung)
+- Computer Science student at Angkor University, curious about technology and passionate about exploring, building projects, and learning new things.
+- Interested in web development, artificial intelligence (AI), machine learning (ML), and data science.
+- Experienced in leading university project teams, coordinating tasks, and collaborating with teammates.
+- Enjoy turning ideas into practical applications through hands-on projects.
+- Always seeking opportunities to improve technical skills and gain real-world experience.
 
-</div>
+</details>
 
----
+<!-- studio:metrics plugins=isocalendar -->
+<h2 align="center">Overview</h2>
 
-## 📊 GitHub Statistics
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Laykimhoung/Laykimhoung/main/profile-assets/card-overview-dark.svg?plugins=isocalendar" />
+    <img src="https://raw.githubusercontent.com/Laykimhoung/Laykimhoung/main/profile-assets/card-overview-light.svg?plugins=isocalendar" alt="Year overview" />
+  </picture>
+</p>
 
-<div align="center">
+<!-- studio:langs+streak -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Laykimhoung/Laykimhoung/main/profile-assets/card-langs-dark.svg?layout=compact&langs_count=10" />
+    <img src="https://raw.githubusercontent.com/Laykimhoung/Laykimhoung/main/profile-assets/card-langs-light.svg?layout=compact&langs_count=10" alt="Top languages" width="49%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Laykimhoung/Laykimhoung/main/profile-assets/card-streak-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Laykimhoung/Laykimhoung/main/profile-assets/card-streak-light.svg" alt="GitHub streak" width="49%" />
+  </picture>
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Laykimhoung&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub statistics" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laykimhoung&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Laykimhoung&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-<div align="center">
-
-**Learning every day, growing every step.**
-
-</div>
+<!-- studio:stats+stats -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Laykimhoung/Laykimhoung/main/profile-assets/card-stats-dark.svg?show_icons=true&include_all_commits=true" />
+    <img src="https://raw.githubusercontent.com/Laykimhoung/Laykimhoung/main/profile-assets/card-stats-light.svg?show_icons=true&include_all_commits=true" alt="GitHub stats" width="49%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Laykimhoung/Laykimhoung/main/profile-assets/card-stats-2-dark.svg?show_icons=true" />
+    <img src="https://raw.githubusercontent.com/Laykimhoung/Laykimhoung/main/profile-assets/card-stats-2-light.svg?show_icons=true" alt="GitHub stats" width="49%" />
+  </picture>
+</p>
